@@ -1,6 +1,8 @@
 # Attractive Advance Portfolio Website
+
 ## _Chatting Bot Like Design (Whatsapp like interface)_
 
+I'm here fixing typos in the file
 
 - [Running Site](https://vinayak-09.github.io/)
 
@@ -24,16 +26,15 @@
 
 <br><br>
 
-## Connect with Me: 
+## Connect with Me:
 
 <br>
 
 [![N|Solid](images/telegram.svg)](https://t.me/vinayak_09)
 
-
 [![N|Solid](images/instagram.svg)](https://instagram.com/vinayak_patil_09)
-
 
 <br>
 
 **Free Software, Hell Yeah!**
+Nothing to be fixed. Good file
